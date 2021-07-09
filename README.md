@@ -23,3 +23,32 @@ Incrementar alguma funcionalidade ao programa da Atividade 01. Sugestões:
 - Aplicar desconto se o pagamento for em espécie;
 - Aplicar desconto em combos (lasanha + suco -> desconto de 50 centavos); 
 - Tratar exceções;
+
+### Atividade 03
+
+Fazer a comparação entre os gráficos de x,y,z, onde:
+
+- x: números inteiros de 0 a 100;
+- y: alguma função f(x) que contenha um termo exponencial;
+- z: um arquivo CSV contendo 100 números reais gerados aleatoriamente no intervalo [f(0);f(100)];
+
+- Ler o arquivo CSV utilizando a biblioteca Pandas;
+- Gerar os números aleatórios utilizando a biblioteca Numpy;
+- Plotar os gráficos utilizando a biblioteca matplotlib;
+
+- Ponha legenda e título nos gráficos, além de diferenciar as curvas por cores.
+- Salve a figura como PDF e como PNG;
+
+### Atividade 04
+
+Utilizar medidas estatísticas nos datasets x,y,z, tais quais:
+
+- Média, moda e mediana;
+- Desvio-padrão;
+
+Lembre-se de que há funções específicas para isso!
+
+
+Não se desespere se você não conseguir fazer tudo, procure ajuda com nosso time de monitores! <3
+
+
