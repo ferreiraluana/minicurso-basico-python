@@ -30,7 +30,7 @@ Fazer a comparação entre os gráficos de x,y,z, onde:
 
 - x: números inteiros de 0 a 100;
 - y: alguma função f(x) que contenha um termo exponencial;
-- z: um arquivo CSV contendo 100 números reais gerados aleatoriamente no intervalo [f(0);f(100)];
+- z: um arquivo CSV contendo 100 números reais gerados aleatoriamente no intervalo [0;100];
 
 - Ler o arquivo CSV utilizando a biblioteca Pandas;
 - Gerar os números aleatórios utilizando a biblioteca Numpy;
